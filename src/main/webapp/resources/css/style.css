@@ -1,0 +1,9 @@
+.myNavBar {
+    margin-right: 0 !important;
+    margin-left: auto;
+}
+
+.genderRatioBtn {
+    display: inline-block;
+    margin: 1%;
+}
